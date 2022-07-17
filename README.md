@@ -59,7 +59,7 @@ The Application Runs on **localhost:3000**
 
 #### URL
 
-The application has just one url /productlist which ties to *Product* Component
+The application has just one url /productlist which ties to *App* Component
 
 ## Resources
 
