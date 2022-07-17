@@ -1,0 +1,102 @@
+.main {
+  background-color: black;
+
+}
+
+.header {
+  display: flex;
+  color: aliceblue;
+padding-left: 40px;
+padding-right: 40px;
+justify-content: space-between;
+align-items: center;
+
+}
+
+.Row-0 {
+  display: flex; 
+  color:white;
+  padding-inline: 360px;
+  justify-content: space-around;
+  padding-bottom: 50px;
+  cursor: default;
+
+    
+}
+.slider-image{
+  height: 50px;
+}
+.image-container-top{text-align: center;
+  height: 100px;
+  cursor: pointer;
+
+}
+.vector{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.price-cart {
+  display: flex;
+  justify-content: space-between;
+}
+
+.products {
+display: flex;
+justify-content: start;
+flex-wrap: wrap;
+gap: 50px;
+padding:40px
+}
+
+
+.image-container-2{
+  /* width:275px; */
+ 
+}
+.image-container-2 img{
+ width:100%
+}
+.discription {
+  color: aliceblue;
+  display: flex;
+  
+}
+.price-tag {
+  display: flex;
+  justify-content: space-between;
+  color: aliceblue;
+}
+.image-container{
+  position: relative;
+  cursor: pointer;
+  width:22%
+}
+
+.bookmark {
+  position: absolute;
+  z-index: 1;
+  right: 10px;
+  top: 10px;
+  height: 1.25rem;
+  /* background-color: white; */
+}
+.category-product-container {
+  display: flex;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.Types{
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-left: 40px;
+  height: 100px;
+  color: aliceblue;
+}
+
+.header-Right-bar{
+  display: flex;
+}

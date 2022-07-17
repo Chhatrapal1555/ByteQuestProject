@@ -1,0 +1,16 @@
+export const duffleBag = require('./dufflebag.png');
+export const bookmark = require('./Bookmark.png');
+export const bookmarkmini = require('./Bookmarkmini.png');
+export const allbags = require('./Allbags.png');
+export const shoppingbag = require('./Shoppingbag.png');
+export const laptopsleeve = require('./Laptopsleeve.png');
+export const halfbag = require('./Halfbag.png');
+export const handbag = require('./Handbags.png');
+export const messengerbag = require('./Messengerbag.png');
+export const search = require('./search.png');
+export const slingbag = require('./Slingbags.png');
+export const totebag = require('./Tote.png');
+export const useralt = require('./useralt.png');
+export const vanitypouch = require('./Vanitypouch.png');
+export const vector = require('./Vector.png');
+export const rupeesign = require('./rupeesign.png');
