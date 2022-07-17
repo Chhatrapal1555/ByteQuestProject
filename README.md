@@ -8,8 +8,7 @@ This Project is a Simple ReactJS Project which demonstrates the following
 3. Using CSS along with React
 4. Use of predefined library of Tooltip
 
-## Live Application URL
-Not deployed yet
+<!-- ## Live Application URL -->
 ### https://github.com/Chhatrapal1555/ByteQuestProject
 This URL has the application deployed in
 
